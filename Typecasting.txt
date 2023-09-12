@@ -35,3 +35,17 @@ public class TypeCasting {
 			}
 		}
 
+
+output:-
+--------
+Implicit Type Casting
+Value of a: A
+Value of b: 65
+Value of c: 65.0
+Value of d: 65
+Value of e: 65.0
+
+
+Explicit Type Casting
+Value of x: 45.5
+Value of y: 45

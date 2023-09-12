@@ -47,12 +47,12 @@ public class Constructordemo {
 				}
 		}
 
-output:-
-----------
+
+output:
+-------
 0 null
 0 null
 
 2 Alex
 10 Annie
-
 

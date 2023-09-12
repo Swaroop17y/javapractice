@@ -1,6 +1,6 @@
+package javapractice;
 
-//1. Class is having Default access modifier
-class defAccessSpecifier
+public class defAccessSpecifier
 {
   void display()
      {
@@ -51,4 +51,11 @@ public class pubaccessspecifiers {
         System.out.println("This is Public Access Specifiers"); 
     } 
 }
+
+
+output:-
+---------
+default Access Specifier
+you are using default access specifier
+This is protected access specifier
 

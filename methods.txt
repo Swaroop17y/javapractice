@@ -1,5 +1,5 @@
+Package javapractice;
 
-//method demo
 public class methodExecution {
 
 public int multipynumbers(int a,int b) {
@@ -57,3 +57,12 @@ overloadMethod ob=new overloadMethod();
 }
 
 
+Output:-
+---------
+Multiplication is :30
+
+Before operation value of data is 150
+After operation value of data is 150
+
+Area of Triangle : 60.0
+Area of Circle : 78.5
